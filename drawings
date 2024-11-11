@@ -648,7 +648,7 @@ function DrawingLib.createFrame()
 end
 
 task.spawn(function()
-	print("Gegamo was here!\n this executor gives you rizz")
+	print("Zerion Injected!\n .gg/UPPPdVbXEK")
 	local _game = game:GetService("CoreGui").Parent
 local HttpService = _game:FindService("HttpService")
 
